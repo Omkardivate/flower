@@ -14,8 +14,15 @@
 11. clone git repository in new folder (folder name: docker_project)
 12. Go inside 'docker_project/cloned_project'
 13. <strong>sudo systemctl --type=service --state=running</strong>
-14. <strong>sudo docker build -t img_name . </strong>
+14. <strong>sudo docker build -t img_name . </strong> -> to build image, where the 'Dockerfile' is present
 15. <strong>sudo docker ps </strong> -> gives running containers 
 16. <strong>sudo docker images </strong> -> gives created images 
 17. <strong>sudo docker run -d -p port_no:port_no  img_name </strong>  -> to run the image on port_no
 18. go to browser, 'http://ip_address:port_no' 
+19. 'sudo docker ps' copy container_id, <strong>sudo docker stop container_id</strong> -> to stop container from running
+20. <strong>sudo docker rmi image_id -f</strong>  -> to delete image  <br><br>
+
+Other commands:
+- ps
+- sudo docker ps -> gives running containers
+- sudo docker images -> gives created images 
