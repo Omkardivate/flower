@@ -25,4 +25,6 @@
 Other commands:
 - ps
 - sudo docker ps -> gives running containers
-- sudo docker images -> gives created images 
+- sudo docker images -> gives created images
+- sudo docker stop container_id -> to stop container from running
+- sudo docker rmi image_id -f   -> to delete image 
