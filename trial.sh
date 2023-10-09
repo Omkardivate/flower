@@ -35,10 +35,11 @@ echo Hye $uname,how\'s the day?
 #        gday)           echo Australian ;;
 #        bonjour)        echo French     ;;
 #        "guten tag")    echo German     ;;
-#        *)              echo Unknown Language: $input_text
+#        *)              echo Unknown Language: $input_text   # *)  is default case
 #                ;;
 #   esac
-#done  #ctrl+c
+#done 
+##ctrl+c to come out of loop
 
 
 
