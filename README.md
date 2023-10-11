@@ -28,3 +28,7 @@ Other commands:
 - sudo docker images -> gives created images
 - sudo docker stop container_id -> to stop container from running
 - sudo docker rmi image_id -f   -> to delete image 
+
+### Shell Scripting
+1. create one file in project folder with ( .sh ) extention
+2. write scripting code in that file and then save
