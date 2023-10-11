@@ -32,3 +32,5 @@ Other commands:
 ### Shell Scripting
 1. create one file in project folder with ( .sh ) extention
 2. write scripting code in that file and then save
+3. Change its mod to 755
+4. execute scripting file by ( ./file_nm.sh)
