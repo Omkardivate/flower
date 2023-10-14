@@ -1,4 +1,6 @@
-![Docker](public/images/docker.png)
+<<p align="center" width="100%">
+    <img width="33%" src="public/images/docker.png">
+</p>
 
 # flowers cart
 
