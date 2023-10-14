@@ -1,4 +1,4 @@
-![]()
+![Docker](public/images/docker.png)
 
 # flowers cart
 
